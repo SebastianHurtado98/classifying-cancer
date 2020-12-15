@@ -1,4 +1,9 @@
+## Author
+The original repository is in: https://github.com/jhole89/classifying-cancer
+This repository should have been forked, however, there were some issues with the files.
+
 # Classifying Cancer
+
 Classifying Cancer is a Python3 project to classify cancer data using
 Google's TensorFlow library and Neural Networks.  The goal of this
 project was to validate and demonstrate that modern machine learning
